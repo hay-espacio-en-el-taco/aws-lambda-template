@@ -1,0 +1,25 @@
+{
+  "name": "aws-lambda-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hay-espacio-en-el-taco/aws-lambda-template.git"
+  },
+  "author": "Christian Medinilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hay-espacio-en-el-taco/aws-lambda-template/issues"
+  },
+  "homepage": "https://github.com/hay-espacio-en-el-taco/aws-lambda-template#readme",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.134",
+    "@types/node": "^20.11.24",
+    "@vercel/ncc": "^0.38.1",
+    "typescript": "^5.3.3"
+  }
+}
